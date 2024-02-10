@@ -1,8 +1,8 @@
 {
-  "name": "anshul-production",
+  "name": "bhuwan-production",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github_anshul-devloper.github.io/NETFLIX-CLONE",
+  "homepage": "https://github.com/BhuwanPant/Netflix-clone/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
